@@ -1,0 +1,69 @@
+[14:26:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:26:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:26:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:26:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:49] [main/INFO]: Reloading ResourceManager: Default
+[14:26:49] [Worker-Main-14/INFO]: Loaded 7 recipes
+[14:26:50] [Worker-Main-14/INFO]: Loaded 927 advancements
+[14:26:51] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[14:26:51] [Server thread/INFO]: Loading properties
+[14:26:51] [Server thread/INFO]: Default game type: SURVIVAL
+[14:26:51] [Server thread/INFO]: Generating keypair
+[14:26:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:26:52] [Server thread/INFO]: Using default channel type
+[14:26:53] [Server thread/INFO]: Preparing level "world"
+[14:26:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:26:54] [Server thread/INFO]: Preparing spawn area: 0%
+[14:26:54] [Server thread/INFO]: Preparing spawn area: 0%
+[14:26:54] [Server thread/INFO]: Preparing spawn area: 0%
+[14:26:54] [Server thread/INFO]: Preparing spawn area: 0%
+[14:26:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:26:55] [Server thread/INFO]: Preparing spawn area: 53%
+[14:26:59] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[14:26:59] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[14:26:59] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[14:26:59] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[14:26:59] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[14:26:59] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[14:26:59] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[14:26:59] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[14:27:00] [Worker-Main-9/INFO]: Preparing spawn area: 99%
+[14:27:00] [Server thread/INFO]: Time elapsed: 7242 ms
+[14:27:00] [Server thread/INFO]: Done (7.349s)! For help, type "help"
+[14:27:18] [User Authenticator #1/INFO]: UUID of player Logxxn is c357a2e5-e187-4e85-ada8-956e901cf3fb
+[14:27:19] [Server thread/INFO]: Logxxn[/0:0:0:0:0:0:0:1:51942] logged in with entity id 275 at (164.0969370393256, 76.9233320408726, 16.2370862933978)
+[14:27:19] [Server thread/INFO]: Logxxn joined the game
+[14:31:50] [Server thread/INFO]: [Logxxn: Set the time to 1000]
+[14:47:15] [Server thread/INFO]: Villager bfj['Villager'/293, l='ServerLevel[world]', x=204.29, y=68.00, z=91.70] died, message: 'Villager was slain by Zombie'
+[14:54:21] [Server thread/INFO]: [Logxxn: Set the world spawn point to 183, 65, 11 [0.0]]
+[14:54:37] [Server thread/INFO]: [Logxxn: Set own game mode to Survival Mode]
+[14:54:46] [Server thread/INFO]: [Logxxn: Set own game mode to Creative Mode]
+[15:10:34] [Server thread/INFO]: Logxxn has made the advancement [Cover Me With Diamonds]
+[15:21:48] [Server thread/INFO]: [Logxxn: Set own game mode to Survival Mode]
+[15:21:50] [Server thread/INFO]: Logxxn has made the advancement [Stone Age]
+[15:23:15] [Server thread/INFO]: Logxxn has made the advancement [Ol' Betsy]
+[15:23:16] [Server thread/INFO]: Logxxn has made the advancement [Take Aim]
+[15:23:23] [Server thread/INFO]: Logxxn has made the advancement [Monster Hunter]
+[15:23:25] [Server thread/INFO]: Villager bfj['Villager'/347, l='ServerLevel[world]', x=204.54, y=58.00, z=90.81] died, message: 'Villager hit the ground too hard whilst trying to escape Zombie'
+[15:23:37] [Server thread/INFO]: [Logxxn: Set own game mode to Creative Mode]
+[15:25:42] [Server thread/INFO]: [Logxxn: Set own game mode to Survival Mode]
+[15:28:26] [Server thread/INFO]: Logxxn has made the advancement [Best Friends Forever]
+[15:30:04] [Server thread/WARN]: Logxxn was kicked for floating too long!
+[15:30:04] [Server thread/INFO]: Logxxn lost connection: Flying is not enabled on this server
+[15:30:04] [Server thread/INFO]: Logxxn left the game
+[15:30:08] [User Authenticator #2/INFO]: UUID of player Logxxn is c357a2e5-e187-4e85-ada8-956e901cf3fb
+[15:30:08] [Server thread/INFO]: Logxxn[/0:0:0:0:0:0:0:1:52237] logged in with entity id 7717 at (161.25113252587087, 70.8500000178814, 42.768653571990484)
+[15:30:08] [Server thread/INFO]: Logxxn joined the game
+[15:31:49] [Server thread/INFO]: [Logxxn: Set own game mode to Creative Mode]
+[15:34:06] [Server thread/INFO]: [Logxxn: Set own game mode to Survival Mode]
+[15:35:39] [Server thread/INFO]: [Logxxn: Set own game mode to Creative Mode]
+[15:37:28] [Server thread/INFO]: Logxxn lost connection: Disconnected
+[15:37:28] [Server thread/INFO]: Logxxn left the game
+[15:37:31] [User Authenticator #3/INFO]: UUID of player Logxxn is c357a2e5-e187-4e85-ada8-956e901cf3fb
+[15:37:31] [Server thread/INFO]: Logxxn[/0:0:0:0:0:0:0:1:52273] logged in with entity id 8696 at (193.08700419251306, 66.0, 33.067633518830654)
+[15:37:31] [Server thread/INFO]: Logxxn joined the game
+[15:37:41] [Server thread/INFO]: [Logxxn: Set own game mode to Survival Mode]
+[15:37:47] [Server thread/INFO]: Logxxn lost connection: Disconnected
+[15:37:47] [Server thread/INFO]: Logxxn left the game
